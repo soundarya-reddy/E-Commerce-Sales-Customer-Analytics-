@@ -12,7 +12,7 @@ optimized SQL queries.
 • Generate business insights such as revenue trends, top customers, and bestselling products
 
 ## 🔗 Database Schema
-### The project uses a relational database with the following tables:<br>
+#### The project uses a relational database with the following tables:<br>
 • customers – Customer details<br>
 • orders – Order-level information<br>
 • order_items – Product details per order<br>
@@ -68,7 +68,7 @@ integrity.
 
 ## ER Diagram
 
-### Database Design Explanation<br>
+#### Database Design Explanation<br>
 The database is designed using a relational model to efficiently manage customers,
 orders, products, and payments in an e-commerce system.<br>
 Each table represents a core business entity, and relationships are established using
@@ -108,7 +108,7 @@ project.<br>
 4. Run queries from queries.sql to generate insights
 
 ## 💼 Portfolio & Career Relevance
- ### This project demonstrates:<br>
+#### This project demonstrates:<br>
 • Strong SQL fundamentals<br>
 • Real-world business problem solving<br>
 • Analytical thinking<br>
