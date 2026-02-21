@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Customer-Analytics(SQL Project)
+# E-Commerce-Sales and Customer-Analytics(SQL Project)
 
 ## 📌 Project Overview
 This project focuses on analyzing e-commerce sales and customer data using SQL
